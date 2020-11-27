@@ -59,13 +59,13 @@ module.exports = {
     sidebar: 'structuring', // 侧边栏  'structuring' | { mode: 'structuring', collapsable: Boolean} | 'auto' | 自定义    温馨提示：目录页数据依赖于结构化的侧边栏数据，如果你不设置为'structuring',将无法使用目录页
 
     author: { // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
-      name: 'xugaoyi', // 必需
-      link: 'https://github.com/xugaoyi' // 可选的
+      name: 'Cubik65536', // 必需
+      link: 'https://github.com/Cubik65536' // 可选的
     },
     blogger: { // 博主信息，显示在首页侧边栏
-      avatar: 'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200103123203.jpg',
-      name: 'Evan Xu',
-      slogan: '前端界的小学生'
+      avatar: 'https://lh3.googleusercontent.com/ogw/ADGmqu_bEsBLi9qy8GE3LTYHMM_PWoHAAPeZPvliof02GA=s192-c-mo',
+      name: 'Cubik65536',
+      slogan: '无限创意 / 无限进步 / 无限可能'
     },
     social: { // 社交图标，显示于博主信息栏和页脚栏
       // iconfontCssFile: '//at.alicdn.com/t/font_1678482_u4nrnp8xp6g.css', // 可选，阿里图标库在线css文件地址，对于主题没有的图标可自由添加
@@ -73,17 +73,17 @@ module.exports = {
         {
           iconClass: 'icon-youjian',
           title: '发邮件',
-          link: 'mailto:894072666@qq.com'
+          link: 'mailto:cubik65536@cubik65536.top'
         },
         {
           iconClass: 'icon-github',
           title: 'GitHub',
-          link: 'https://github.com/xugaoyi'
+          link: 'https://github.com/Cubik65536/'
         },
         {
-          iconClass: 'icon-erji',
-          title: '听音乐',
-          link: 'https://music.163.com/#/playlist?id=755597173'
+          iconClass: 'icon-QQ',
+          title: 'QQ',
+          link: 'https://qm.qq.com/cgi-bin/qm/qr?k=RLGH-qMAksjcGnzZRquPFREZ2C_Mln7s&authKey=TukvXenK5ZJ5ysC6gcHk2CCRW99ZlBFcUMHsVLxrqSpuD/BvMfU+5S3KeyVoMOKA&noverify=0'
         }
       ]
     },

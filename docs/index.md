@@ -8,20 +8,16 @@ tagline: RECOMMENDED BY DR. CREATIVE
 # bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
-  - title: 折腾经验
+  - title: 折腾记录
     details: 各种折腾的过程，相关经验、笔记、教程
     link: /technology/
     imgUrl: /img/EGH_reactflux.png
   - title: App开发
-    details: Java，Python，Swift等编程语言笔记、教程
+    details: Java，Python，Swift等编程语言的学习笔记、教程
     link: /app/ # 可选
     imgUrl: /img/Manage_React_Form.png # 可选
-  - title: Web实践
-    details: Wordpress，Vuepress，HTML等技术笔记
-    link: /web/
-    imgUrl: /img/EGH_VueJSNuxt_Final_1000.png
   - title: 个人笔记
-    details: 随便写写，最近遇到的事，接下来的一些计划，一些较为轻松的内容
+    details: 随便写写，最近遇到的事，接下来的一段时间的计划，一些较为轻松的内容
     link: /notes/
     imgUrl: /img/notes.png
 

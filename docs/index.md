@@ -12,8 +12,8 @@ features: # 可选的
     details: 各种折腾的过程，相关经验、笔记、教程
     link: /technology/
     imgUrl: /img/EGH_reactflux.png
-  - title: App开发
-    details: Java，Swift等编程语言的学习笔记、教程
+  - title: App开发，相关技术
+    details: Java，Swift等编程语言，Git等相关技术的学习笔记、教程以及相关资源分享
     link: /app/ # 可选
     imgUrl: /img/Manage_React_Form.png # 可选
   - title: 个人笔记

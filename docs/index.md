@@ -13,11 +13,11 @@ features: # 可选的
     link: /technology/
     imgUrl: /img/EGH_reactflux.png
   - title: App开发
-    details: Java，Python，Swift等编程语言的学习笔记、教程
+    details: Java，Swift等编程语言的学习笔记、教程
     link: /app/ # 可选
     imgUrl: /img/Manage_React_Form.png # 可选
   - title: 个人笔记
-    details: 随便写写，最近遇到的事，接下来的一段时间的计划，一些较为轻松的内容
+    details: 随便写写，最近遇到的事，接下来一段时间的计划，一些较为轻松的内容
     link: /notes/
     imgUrl: /img/notes.png
 

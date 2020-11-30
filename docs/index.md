@@ -8,18 +8,22 @@ tagline: RECOMMENDED BY DR. CREATIVE
 # bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
-  - title: feature1
-    details: feature Description 1
-    link: /web/ # 可选
-    imgUrl: /img/web.png # 可选
-  - title: feature2
-    details: feature Description 2
-    link: /ui/
-    imgUrl: /img/ui.png
-  - title: feature3
-    details: feature Description 3
+  - title: 折腾经验
+    details: 各种折腾的过程，相关经验、笔记、教程
     link: /technology/
-    imgUrl: /img/other.png
+    imgUrl: /img/EGH_reactflux.png
+  - title: App开发
+    details: Java，Python，Swift等编程语言笔记、教程
+    link: /app/ # 可选
+    imgUrl: /img/Manage_React_Form.png # 可选
+  - title: Web实践
+    details: Wordpress，Vuepress，HTML等技术笔记
+    link: /web/
+    imgUrl: /img/EGH_VueJSNuxt_Final_1000.png
+  - title: 个人笔记
+    details: 随便写写，最近遇到的事，接下来的一些计划，一些较为轻松的内容
+    link: /notes/
+    imgUrl: /img/notes.png
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 # postList: detailed

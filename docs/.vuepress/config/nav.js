@@ -34,7 +34,7 @@ module.exports = [
     text: '个人笔记',
     link: '/notes/',
   },
-  // { text: '关于', link: '/about/' },
+  { text: '关于', link: '/about/' },
   {
     text: '索引',
     link: '/archives/',

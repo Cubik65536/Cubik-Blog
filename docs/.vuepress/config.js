@@ -20,7 +20,7 @@ module.exports = {
   themeConfig: { // 主题配置
     nav,
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
-    logo: '/img/logo.png', // 导航栏logo
+    logo: 'https://cdn.jsdelivr.net/gh/Cubik65536/Cubik-Image-Hosting-Service/public/assets/img/rubiks-cube-1321158.jpg', // 导航栏logo
     repo: 'Cubik65536', // 导航栏右侧生成Github链接
     searchMaxSuggestions: 10, // 搜索结果显示最大数
     lastUpdated: '上次更新', // 更新的时间，及前缀文字   string | boolean (取值为git提交时间)
@@ -63,7 +63,7 @@ module.exports = {
       link: 'https://github.com/Cubik65536' // 可选的
     },
     blogger: { // 博主信息，显示在首页侧边栏
-      avatar: 'https://lh3.googleusercontent.com/ogw/ADGmqu_bEsBLi9qy8GE3LTYHMM_PWoHAAPeZPvliof02GA=s192-c-mo',
+      avatar: 'https://cdn.jsdelivr.net/gh/Cubik65536/Cubik-Image-Hosting-Service/public/assets/img/rubiks-cube-1321158.jpg',
       name: 'Cubik65536',
       slogan: '无限创意 / 无限进步 / 无限可能'
     },
